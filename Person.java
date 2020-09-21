@@ -1,7 +1,7 @@
 /**
  * @program: homework_assignment_2
  * @filename: Person
- * @author:
+ * @author:Ke Chen
  * @date: 2020/9/11
  * @description:
  **/

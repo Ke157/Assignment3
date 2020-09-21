@@ -1,7 +1,7 @@
 /**
  * @program: homework_assignment_2
  * @filename: Employee
- * @author:
+ * @author:Ke Chen
  * @date: 2020/9/11
  * @description:
  **/
@@ -59,5 +59,4 @@ public abstract class Employee extends Person {
                 '}';
     }
 }
-
 
